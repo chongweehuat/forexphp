@@ -1,0 +1,1 @@
+insert into takeprofit (datetime,login,openProfit,openProfitLot,maxProfit,maxProfitLot,maxOpenProfitLot,topProfitLot,pair) values ('2024-08-22 23:20:00',24274294,2.87,119.0,2.87,119.0,84.0,84.0,'GBPJPY') 
